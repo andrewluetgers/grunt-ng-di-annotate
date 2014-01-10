@@ -11,7 +11,7 @@
 module.exports = function (grunt) {
 
     var fs = require('fs'),
-        ngAnnotate = require('ng-annotate');
+        ngAnnotate = require('ng-di-annotate');
 
     grunt.registerMultiTask('ngAnnotate',
         'Add, remove and rebuild AngularJS dependency injection annotations',
