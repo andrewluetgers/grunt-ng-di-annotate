@@ -1,6 +1,8 @@
 # grunt-ng-di-annotate
 
-> Add, remove and rebuild AngularJS and [NG-DI](https://github.com/jmendiara/ng-di) dependency injection annotations. This is a fork of, and intended to be used in place of, grunt-ng-annotate.
+> Add, remove and rebuild AngularJS and [NG-DI](https://github.com/jmendiara/ng-di) dependency injection annotations. 
+
+This is a fork of and should be used in place of grunt-ng-annotate.
 
 ## Getting Started
 This plugin requires Grunt.
