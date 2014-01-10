@@ -1,8 +1,8 @@
 {
-    "name": "grunt-ng-annotate",
+    "name": "grunt-ng-di-annotate",
     "version": "0.0.5-pre",
-    "description": "Add, remove and rebuild AngularJS dependency injection annotations.",
-    "homepage": "https://github.com/mzgol/grunt-ng-annotate",
+    "description": "Add, remove and rebuild AngularJS and NG-DI dependency injection annotations.",
+    "homepage": "https://github.com/andrewluetgers/grunt-ng-annotate",
     "author": {
         "name": "Michał Gołębiowski",
         "email": "m.goleb@gmail.com"
@@ -13,16 +13,16 @@
     "main": "Gruntfile.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/mzgol/grunt-ng-annotate.git"
+        "url": "https://github.com/andrewluetgers/grunt-ng-annotate.git"
     },
-    "bugs": "https://github.com/mzgol/grunt-ng-annotate/issues",
+    "bugs": "https://github.com/andrewluetgers/grunt-ng-annotate/issues",
     "licenses": [
         {
             "type": "MIT"
         }
     ],
     "dependencies": {
-        "ng-annotate": "~0.4.0"
+        "ng-di-annotate": "~0.4.0"
     },
     "devDependencies": {
         "grunt-contrib-jshint": "~0.7.1",
